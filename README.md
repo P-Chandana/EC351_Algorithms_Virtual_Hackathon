@@ -1,1 +1,13 @@
-# EC351_Algorithms_Virtual_Hackathon
+# Image Sorting
+
+
+**Python Libraries used** : OpenCV ,PIL ,Numpy ,Matplotlib ,glob ,collections
+
+
+
+
+
+
+
+
+
