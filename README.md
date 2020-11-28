@@ -6,6 +6,8 @@ Implementation of Real-time applications of Sorting Algorithms in image processi
 
 ## Extra Applications Implemented
 
+**Python Libraries used** : OpenCV ,PIL ,Numpy ,Matplotlib ,glob ,collections ,colortheif 
+
 ### Identification of Infected leaves ( Sorting Based on dominant color )
 
 ![](l.png)
@@ -15,10 +17,14 @@ Sorting images using colour content in images is very useful in image processing
 Check out the code: [Here](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/Sorting_by_color.py)
 
 ### Sorting and Searching cats according to their ages 
+
 ![](a.png)
 
+Its one of the important applications in image processing . Sorting the cats based on their age and size is very useful in IOT for example in smart street lights usage of motion sensor can be modified using the size of the cat or any animal in that case.
 
-**Python Libraries used** : OpenCV ,PIL ,Numpy ,Matplotlib ,glob ,collections ,colortheif 
+But to find the age , we need to use ML algorithms to train the model which can identify the age of the cat . Here we implemented using the background color . We have taken all the images with same shape with different pixel values i.e in a picture where a kitten is present will have more background than a picture of an adult cat . With this logic we sorted the cats based on their ages.
+
+Check out the code: [Here]()
 
 
 
