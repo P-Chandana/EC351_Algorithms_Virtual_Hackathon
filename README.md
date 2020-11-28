@@ -2,7 +2,7 @@
 
 Implementation of Real-time applications of Sorting Algorithms in image processing under the guidance of Dr. Uma Sheshadri. 
 
-[Project Documentation]()
+[Project Documentation](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/Project-report.pdf)
 
 ## Extra Applications Implemented
 
