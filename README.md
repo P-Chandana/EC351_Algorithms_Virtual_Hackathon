@@ -3,8 +3,8 @@
 Implementation of Real-time applications of Sorting Algorithms in image processing under the guidance of Dr. Uma Sheshadri. 
 
 ##  Image Sorting and Searching
-* Sorting and Searching based on size attribute
-* Sorting and Searching based on dominant color
+* Based on size attribute
+* Based on dominant color
 * Sorting and Searching cats according to their ages 
 
 
