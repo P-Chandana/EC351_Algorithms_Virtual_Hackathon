@@ -2,7 +2,9 @@
 
 Implementation of Real-time applications of Sorting Algorithms in image processing under the guidance of Dr. Uma Sheshadri. 
 
-[Project Documentation](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/Project-report.pdf)        
+[Project Documentation](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/Project-report.pdf)   
+
+
 Implementation_Video : [Here](https://drive.google.com/file/d/1fRBgTfIGBSIq38V5JpnWNTVtxEg31pHd/view)
 
 ## Extra Applications Implemented
@@ -16,7 +18,8 @@ Implementation_Video : [Here](https://drive.google.com/file/d/1fRBgTfIGBSIq38V5J
 Sorting images using colour content in images is very useful in image processing . Using the colortheif library of python we can caluculate the dominant color present in the image.Using this concept of dominant colour we can catogorize leafs based on the color content of brown spots present on the leafs. If the brown color content is more in the image then its mean value of RGB will be less because rgb value of Brown is (39.6, 26.3, 12.9) and rgb value of greeen is (58, 95, 11).In this way we can indentify infected leafs .
 
 Check out the code: [Here](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/Sorting_by_color.py)
-Implementation_Video : [Here](https://drive.google.com/file/d/1ZACbB3Cs7nLc6TiCpt0c9FI7rHzfUt5Y/view)
+
+[Implementation_Video : Here](https://drive.google.com/file/d/1ZACbB3Cs7nLc6TiCpt0c9FI7rHzfUt5Y/view)
 
 ### Sorting and Searching cats according to their ages 
 
