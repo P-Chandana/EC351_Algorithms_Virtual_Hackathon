@@ -19,7 +19,7 @@ Sorting images using colour content in images is very useful in image processing
 
 Check out the code: [Here](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/Sorting_by_color.py)
 
-[Implementation_Video : Here](https://drive.google.com/file/d/1ZACbB3Cs7nLc6TiCpt0c9FI7rHzfUt5Y/view)
+[Implementation_Video](https://drive.google.com/file/d/1ZACbB3Cs7nLc6TiCpt0c9FI7rHzfUt5Y/view)
 
 ### Sorting and Searching cats according to their ages 
 
